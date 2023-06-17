@@ -8,13 +8,12 @@
 
 This project describes page development using HTLM/CSS only. A mobile verst and layout for tablets have also been developed.
 
-# Page Desktop version
+# Page Desktop/Tablet/Mobile version
+![Запись_2023_06_17_23_23_35_186](https://github.com/Deker39/Page-only-HTML-CSS/assets/44725291/c25ae147-2196-4851-8ab2-c5e1b21f7c57)
+
+# Template
 <img src="https://github.com/Deker39/Page-only-HTML-CSS/assets/44725291/9bf8cbfd-a753-45e7-8116-e279c634c28d" width="100%">
 
-# Page Tablet version
 
-<img src="https://github.com/Deker39/Page-only-HTML-CSS/assets/44725291/f8ff44d9-b34d-4388-97f6-604d8ca29a28" width="100%" >
 
-# Page Mobile version
 
-<img src="https://github.com/Deker39/Page-only-HTML-CSS/assets/44725291/a92de281-3368-4669-8ccb-5d0bc1ef1368" width="100%" >
